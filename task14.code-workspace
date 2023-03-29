@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bootstrap99"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task14"
+	}
+}
